@@ -53,7 +53,6 @@ education:
     date_end: Present
 
   
-  
     summary: |
       GPA: 3.8/4.0
 
