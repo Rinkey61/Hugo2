@@ -22,11 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: Student
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -52,12 +47,11 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Computer Science and Engineering
+    institution: Jahangirnagar University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
