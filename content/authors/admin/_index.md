@@ -59,7 +59,7 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Operating System
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
