@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "--",
-      "?xml",
       "a",
       "article",
       "aside",
@@ -507,8 +506,6 @@
       "space-y-16",
       "space-y-3",
       "spoiler",
-      "st0",
-      "st1",
       "sticky",
       "stroke-current",
       "table-auto",
@@ -590,11 +587,10 @@
     ],
     "ids": [
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
-      "Layer_1",
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-894231576",
+      "chart-812769354",
       "charts",
       "code",
       "crowd-funded-open-source-software",

@@ -145,9 +145,9 @@ awards:
     icon: freeCodeCamp
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - Skilled in creating mobile-first, responsive websites.
+      - Proficient in designing user-friendly and visually appealing web interfaces.
+      - Skilled in HTML, CSS, and flexbox/grid systems for building dynamic and responsive layouts.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
