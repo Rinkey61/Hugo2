@@ -50,7 +50,7 @@ education:
   - area: Computer Science and Engineering
     institution: Jahangirnagar University
     date_start: 2022-09-03
-    date_end: 2020-12-31
+    date_end: Present
 
     
 
