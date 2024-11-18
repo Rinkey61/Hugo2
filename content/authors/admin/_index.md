@@ -56,12 +56,15 @@ education:
 
   
   - summary: |
-      GPA: 3.8/4.0
+      GPA: 3.6/4.0
 
       Courses included:
       - Operating System
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Graphics
+      - Web Design and Development
+      - Computational Geometry
+      - Object Oriented Design Analysis
+      - Discrete Mathematics
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
