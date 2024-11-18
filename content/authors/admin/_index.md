@@ -67,7 +67,7 @@ education:
       - Discrete Mathematics
  
  
- 
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -97,14 +97,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: CPP
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 60
+        
       - name: SQL
         description: ''
         percent: 40
