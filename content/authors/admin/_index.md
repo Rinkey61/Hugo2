@@ -55,7 +55,7 @@ education:
     
 
   
-  - summary: |
+    summary: |
       GPA: 3.6/4.0
 
       Courses included:
