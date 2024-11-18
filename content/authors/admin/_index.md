@@ -49,16 +49,11 @@ interests:
 education:
   - area: Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-03
+    date_end: Present
 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  
+  
     summary: |
       GPA: 3.8/4.0
 
